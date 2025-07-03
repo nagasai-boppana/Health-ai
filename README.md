@@ -1,13 +1,15 @@
 ## 👥 Team Members and Contributions
 | Name                          | Role                                                                |
 | ----------------------------- | ------------------------------------------------------------------- |
-| **Likitha Puttareddy (LEAD)** | Full-stack development, backend integration, chatbot AI, deployment |
-| **Sama Pavithra**             | Treatment module logic, design assistance                           |
-| **Velakaturi Lekhya Sreeya**  | Health analytics design, testing, and dataset preparation           |
+| **Boppana Nagasai (LEAD)**    | Full-stack development, backend integration, chatbot AI, deployment |
+| **Boppudi Hanumantharao**     | Treatment module logic                                              |
+| **Devarapalli Karthik**       | Design assistance                                                   |
+| **Devisetty Pramod Kumar**    | Health analytics design                                             |
+| **Dokku Syam kumar**          | Testing, and dataset preparation                                    |
 ---
 # 🩺 HealthAI: Intelligent Healthcare Assistant
-**Project by:** Likitha Puttareddy (TEAM LEAD), Sama Pavithra, Velakaturi Lekhya Sreeya
-**Institution:** SVCE College, Tirupati
+**Project by:** Boppana Nagasai (TEAM LEAD), Boppudi Hanumantharao, Devarapalli Karthik, Dokku Syam kumar
+**Institution:** CHEBROLU ENGINEERING College, Chebrolu
 **Internship:** SmartInternz – Virtual Internship (AI using IBM Granite)
 ---
 ## 📌 Project Description
@@ -20,8 +22,8 @@ HealthAI is a Streamlit-based intelligent healthcare assistant that helps users 
 ---
 ## 📽️ Demo Video
 This project is demonstrated by:
-> I am *Likitha Puttareddy*, and our team includes *Sama Pavithra* and *Velakaturi Lekhya Sreeya*.
-> We are from **SVCE College, Tirupati**, completing the **SmartInternz Virtual Internship** using **IBM Granite**.
+> I am *Boppana Nagasai*, and our team includes *Boppudi Hanumatharao*, *Devarapalli Karthik*, *Devisetty Pramod kumar* and *Dokku Syam kumar* 
+> We are from **Chebrolu engineering college, chebrolu**, completing the **SmartInternz Virtual Internship** using **IBM Granite**.
 > In this video, I will explain our HealthAI project and showcase its features.
 
 🎥 **Watch our demo video:**
@@ -49,7 +51,7 @@ HealthAI/
 ## 🚀 How to Run This Project
 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/Likitha456/Health-ai.git
+git clone https://github.com/nagasai-boppana/healthai
 cd Health-ai
 ```
 2️⃣ **Create Virtual Environment** (Optional but Recommended)
@@ -102,12 +104,12 @@ With AI-based insights via prompt.
 ## 🙏 Acknowledgements
 * IBM Granite for open-source models
 * SmartInternz for internship support
-* SVCE College, Tirupati
+* Chebrolu engineering College, Chebrolu
 ---
 ## 🔐 Notes
 * Make sure to allow Google Drive access to the model files before submitting.
 * You can rename the `granite/` folder, but update the path in the code too.
 ---
-✨ Built with  by **Likitha Puttareddy**, **Sama Pavithra** & **Velakaturi Lekhya Sreeya**✨
+✨ Built with  by **Boppana Nagasai**, **Boppudi Hanumatharao**, **Devarapalli Karthik**, **Devisetty Pramod kumar** and **Dokku Syam kumar** ✨
 ---
 
